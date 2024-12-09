@@ -22,8 +22,8 @@ This repository contains a simple Python-based reverse shell implementation. The
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/python-reverse-shell.git
-   cd python-reverse-shell
+   git clone https://github.com/PhinehasNarh/reVerse_5hell
+   cd reVerse_5hell
    ```
 
 2. Install dependencies (if any are added in future versions).
